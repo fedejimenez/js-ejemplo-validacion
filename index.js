@@ -36,7 +36,7 @@ password.onkeyup = function() {
 };
 
 // show password
-const togglePassword = document.querySelector("#show-password input");
+const togglePassword = document.querySelector("#mostrar-password input");
 
 togglePassword.onchange = function() {
   // if (password.type === "password") {
